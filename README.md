@@ -12,5 +12,3 @@
 * Django
 * Fastapi
 
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mahan-h23&layout=compact">
