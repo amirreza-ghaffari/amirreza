@@ -12,5 +12,5 @@
 <p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="python" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="python" width="80" height="40"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="python" width="80" height="40"/> </a>
- <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="python" width="100" height="40"/> </a>
+ <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" alt="python" width="100" height="30"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p
