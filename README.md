@@ -1,5 +1,5 @@
 # About Me:
- I am a backend Developer exprienced with Python and frameworks like Django, Fastapi and Flask
+ I am a backend Developer exprienced in Python and frameworks like Django, Fastapi and Flask
  
 
 <h3 align="left">Connect with me:</h3>
